@@ -1,0 +1,12 @@
+## Interface: 120000, 120001
+## Title: Holy Power Counter
+## Author: DrKManchu
+## Version: 9.0
+## Notes: Displays current Holy Power as a large number on screen.
+## SavedVariables: HolyPowerCounterDB
+## OptionalDeps: Ace3
+## DefaultState: enabled
+## IconTexture: interface/icons/classicon_paladin
+
+embeds.xml
+HolyPowerCounter.lua
