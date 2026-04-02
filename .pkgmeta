@@ -1,0 +1,4 @@
+package-as: HolyPowerCounter
+
+externals:
+  Libs/Ace3: https://github.com/WoWUIDev/Ace3

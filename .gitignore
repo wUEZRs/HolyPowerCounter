@@ -1,0 +1,2 @@
+# Ignore local library folders - Packager will pull these fresh via .pkgmeta on release
+Libs/
