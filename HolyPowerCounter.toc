@@ -2,7 +2,7 @@
 ## Title: Holy Power Counter
 ## Author: wUEZRs
 ## X-Credits: Forked from project Holy Power Indicator by DrKManchu
-## Version: 1.0.1
+## Version: 1.2
 ## Notes: Displays current Holy Power as a large number on screen.
 ## SavedVariables: HolyPowerCounterDB
 ## OptionalDeps: Ace3
