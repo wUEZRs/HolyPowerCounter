@@ -1,7 +1,8 @@
 ## Interface: 120000, 120001
 ## Title: Holy Power Counter
-## Author: DrKManchu
-## Version: @project-version@
+## Author: wUEZRs
+## X-Credits: Forked from project Holy Power Indicator by DrKManchu
+## Version: 1.1
 ## Notes: Displays current Holy Power as a large number on screen.
 ## SavedVariables: HolyPowerCounterDB
 ## OptionalDeps: Ace3

@@ -1,9 +1,7 @@
 name: Package Release
 
 on:
-  push:
-    tags:
-      - '**'
+  workflow_dispatch:
 
 jobs:
   release:
